@@ -97,7 +97,7 @@ You agree to indemnify, defend, and hold harmless MN TAXI, its affiliates, and t
 We reserve the right to terminate or suspend your account and access to the App at our sole discretion, without notice, for conduct that we believe violates these Terms or is harmful to other users or the App.
 
 #### 11. Governing Law
-These Terms are governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of law principles. You agree to submit to the exclusive jurisdiction of the courts located in [Your Jurisdiction] for the resolution of any disputes arising out of or relating to these Terms or your use of the App.
+These Terms are governed by and construed in accordance with the laws of the State of Minnesota and the United States, without regard to its conflict of law principles. You agree to submit to the exclusive jurisdiction of the courts located in Minnesota for the resolution of any disputes arising out of or relating to these Terms or your use of the App.
 
 #### 12. Changes to Terms
 We may update these Terms from time to time. We will notify you of any changes by posting the new Terms in the App. Your continued use of the App after changes are posted will signify your acceptance of the revised Terms.
