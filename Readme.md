@@ -6,7 +6,7 @@
 
 
 ### Terms of Use
-
+ 
 #### 1. Acceptance of Terms
 By accessing or using the MN TAXI App ("the App"), you agree to comply with and be bound by these Terms of Use ("Terms"). If you do not agree to these Terms, please do not use the App.
 
