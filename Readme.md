@@ -35,30 +35,34 @@ You are prohibited from using the App to:
 - **Commercial License**: Drivers must possess a valid commercial license to begin and continue using the driver app.
 - **Airport Cab License**: An airport cab license is required for all drivers to start and continue using the driver app.
 - **Valid Driver’s License**: All drivers must hold a valid driver’s license to start and continue using the driver app.
+#### 7. Reservation Policy
 
-#### 7. Payment Terms
+- **Cancellation Penalty**: A penalty fee will be applied for any reservation cancellations made by the customer.
+- **Company's Right to Cancel**: The company reserves the right to cancel any reservation at its discretion, with or without prior notice.
+
+#### 8. Payment Terms
 - **Pricing**: Ride fares are calculated based on distance, time, and demand. Prices are subject to change without prior notice.
 - **Payment Processing**: All payments are processed through secure third-party payment processors. You agree to provide accurate and complete payment information.
 - **Refunds and Cancellations**: Cancellation policies and refund procedures are detailed within the App. Please refer to the App for specific terms regarding cancellations and refunds.
 
-#### 8. Intellectual Property
+#### 9. Intellectual Property
 All content, features, and functionality of the App, including but not limited to text, graphics, logos, and software, are the exclusive property of MN TAXI or its licensors and are protected by intellectual property laws. You may not reproduce, distribute, modify, or create derivative works of any part of the App without our prior written consent.
 
-#### 9. Disclaimers and Limitation of Liability
+#### 10. Disclaimers and Limitation of Liability
 - **Service "As Is"**: The App is provided on an "as is" and "as available" basis without any warranties of any kind.
 - **Limitation of Liability**: MN TAXI shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising out of your use of the App.
 - **No Warranty of Accuracy**: While we strive to provide accurate and up-to-date information, we do not guarantee the accuracy, completeness, or reliability of any content within the App.
 
-#### 10. Indemnification
+#### 11. Indemnification
 You agree to indemnify, defend, and hold harmless MN TAXI, its affiliates, and their respective officers, directors, employees, and agents from and against any claims, liabilities, damages, losses, and expenses, including legal fees, arising out of or in any way connected with your access to or use of the App, or your violation of these Terms.
 
-#### 11. Termination
+#### 12. Termination
 We reserve the right to terminate or suspend your account and access to the App at our sole discretion, without notice, for conduct that we believe violates these Terms or is harmful to other users or the App.
 
-#### 12. Governing Law
+#### 13. Governing Law
 These Terms are governed by and construed in accordance with the laws of the State of Minnesota and the United States, without regard to its conflict of law principles. You agree to submit to the exclusive jurisdiction of the courts located in Minnesota for the resolution of any disputes arising out of or relating to these Terms or your use of the App.
 
-#### 13. Changes to Terms
+#### 14. Changes to Terms
 We may update these Terms from time to time. We will notify you of any changes by posting the new Terms in the App. Your continued use of the App after changes are posted will signify your acceptance of the revised Terms.
 
 
