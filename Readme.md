@@ -29,6 +29,12 @@ You are prohibited from using the App to:
 - Transmit spam, chain letters, or other unsolicited communications.
 - Engage in any fraudulent or illegal activities.
 - Infringe upon the intellectual property rights of others.
+  
+#### 6. Driver Requirements
+
+- **Commercial License**: Drivers must possess a valid commercial license to begin and continue using the driver app.
+- **Airport Cab License**: An airport cab license is required for all drivers to start and continue using the driver app.
+- **Valid Driver’s License**: All drivers must hold a valid driver’s license to start and continue using the driver app.
 
 #### 6. Payment Terms
 - **Pricing**: Ride fares are calculated based on distance, time, and demand. Prices are subject to change without prior notice.
